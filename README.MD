@@ -1,8 +1,8 @@
 Tasks:
 
-Automates setup of LAMP stack
-Install specific Debian packages
-Remove specific Debian packages
+Automates setup of php application
+Install specific ubuntu packages
+Remove specific ubuntu packages
 Specify content and metadata for files and directories
 Will check for services that need to be restarted
 
