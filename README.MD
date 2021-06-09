@@ -1,10 +1,9 @@
 Tasks:
-
-Automates setup of php application
-Install specific ubuntu packages
-Remove specific ubuntu packages
-Specify content and metadata for files and directories
-Will check for services that need to be restarted
+1. Automates setup of PHP Application
+1. Install specific Debian packages
+1. Remove specific Debian packages
+1. Specify content and metadata for files and directories
+1. Will check for services that need to be restarted
 
 ## Structure:
 ``` bash
