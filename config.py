@@ -51,6 +51,6 @@ if False!= p.Path("/var/www/html/index.html"):
      os.system("sudo chown " + d['owner'] + " " + d['file'])
      os.system("sudo chgrp " + d['group'] + " " + d['file'])
      os.system("sudo echo '" + d.get('content') + "' " + ">" + " " + d['file'])
-     os.system("sudo needrestart")
+#     os.system("sudo needrestart")
 print("Application setup is complete")
 
