@@ -3,7 +3,7 @@ Tasks:
 1. Install specific Debian packages
 1. Remove specific Debian packages
 1. Specify content and metadata for files and directories
-1. Will check for services that need to be restarted
+1. Will check for services that need to be restarted (Not working)
 
 ## Structure:
 ``` bash
