@@ -36,7 +36,7 @@ for in_pkg in package_array:
 #        os.system('sudo mysql_secure_installation')
 
 #use Metadata
-if True == p.Path("/var/www/html/index.html"):
+if False!= p.Path("/var/www/html/index.html"):
     os.system("sudo rm /var/www/html/index.html")
     os.system("touch /var/www/html/index.php")  
 # check file exist and not empty
